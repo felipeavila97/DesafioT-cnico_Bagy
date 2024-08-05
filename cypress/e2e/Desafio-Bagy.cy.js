@@ -1,3 +1,23 @@
+// Vou deixar aqui informações para configurar e executar o projeto
+
+// 1. Instale o Cypress:
+//    npm install cypress --save-dev
+
+// 2. Instale o Faker.js para gerar dados aleatórios:
+//    npm install @faker-js/faker --save-dev
+
+// 3. Para abrir o Cypress pela primeira vez e configurar a estrutura de pastas padrão rodar o comando:
+//    npx cypress open
+
+// 4. Para rodar os testes:
+//    npx cypress run
+
+// Certificar de ter o Node.js e o npm instalados .
+// Para verificar a instalação, você pode usar os seguintes comandos:
+//    node -v
+//    npm -v
+
+
 // Aqui estou importando a biblioteca 'faker' para gerar dados aleatórios
 import faker from 'faker';
 
