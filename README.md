@@ -5,7 +5,7 @@ npm install cypress --save-dev
 npm install @faker-js/faker --save-dev
 
 ## 3. Abrir Cypress
-npx cypress run
+npx cypress open
 
 
 
